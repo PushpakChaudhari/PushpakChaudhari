@@ -1,54 +1,71 @@
-
 <h1 align="center">
-  Welcome to Pushpak's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Welcome to Pushpak's profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/aniketshaw29/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/aniketshaw29/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=fira&size=23&color=F74533&background=EFFF4F00&center=true&width=500&height=45&lines=A+Self+Taught+Developer;Learning+Web+App+Development;Backend+Developer;A+Quick+Learner"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=fira&size=23&color=F74533&background=EFFF4F00&center=true&width=500&height=45&lines=A+Self+Taught+Developer;Learning+Web+App+Development;Backend+Developer;A+Quick+Learner">
 </p>
 
-<!-- <h1 align="center">Hey there, Aniket here</h1>
-<h3 align="center">Technology Enthusiast</h3> -->
-<!--
-**aniketshaw29/aniketshaw29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="mailto:pushpakchaudhari383@gmail.com"><img src="https://img.shields.io/badge/Contact%20Me-Mail-orange"></a>
+</p>
 
+<h2 align="center">👨‍💻 About Me 👨‍💻</h2>
 
 - 🔭 Graduated with a **BCA degree** from **_Sant Gadge Baba Amravati University._**
+- 🌱 Focusing on **gaining new skills on _Web Development, Application Development, and Database._**
+- 📫 Mail me here: **pushpakchaudhari383@gmail.com**
 
-- 🌱 Focusing on **gaining new skills on _Web Development, Application Development and Database._**
+<h2 align="center">🛠️ My Tech Stack 🛠️</h2>
 
-- 📫 Mail me here --> **pushpakchaudhari383@gmail.com**
+<div align="center">
+    <h3>👨‍💻 Programming Languages</h3>
+    <p align="center">
+        <!-- Add your favorite programming languages here -->
+    </p>
 
+    <h3>🧰 Frameworks</h3>
+    <p align="center">
+        <!-- Add your favorite frameworks here -->
+    </p>
 
-- Backend Tech Stack      : Java Spring Boot (Hibernate-JPA), Node (Express)
-- Frontend Tech Stack     : Angular
-- Database                : Oracle, MySQL
+    <h3>🗄️ Databases and Cloud Hosting</h3>
+    <p align="center"> 
+        <!-- Add your favorite databases and cloud hosting services here -->
+    </p>
 
+    <h3>💻 Software and Tools</h3>
+    <p align="center"> 
+        <!-- Add your favorite software and tools here -->
+    </p>
+</div>
 
+<h2 align="center">📈 GitHub Stats 📈</h2>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://www.linkedin.com/in/pushpak-chaudhari-a3941323a/" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniketshaw29" height="30" width="40" />
-    </a>
-    <a href="https://github.com/PushpakChaudhari" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aniketshaw29" height="30" width="40" />
-    </a>
-    <a href="#" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aniketshaw29" height="30" width="40" />
-    </a>
- 
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=PushpakChaudhari&theme=nightowl&show_icons=true&count_private=true" alt="GitHub Stats" />
 </p>
+
+<h2 align="center">🔥 Top Languages 🔥</h2>
+
+<p align="center">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=PushpakChaudhari&theme=nightowl&hide_border=true&no-bg=true&no-frame=true&langs_count=10" alt="Top Languages" />
+</p>
+
+<h2 align="center">📍 Profile Visitor Count 📍</h2>
+
+<p align="center">   
+    <img src="https://profile-counter.glitch.me/PushpakChaudhari/count.svg" alt="Profile Visitor Count" />
+</p>
+
+<h2 align="center">📞 Connect with Me 📞</h2>
+
+<p align="center">
+    <a href="https://www.linkedin.com/in/pushpak-chaudhari-a3941323a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue"></a>
+    <a href="https://github.com/PushpakChaudhari" target="_blank"><img src="https://img.shields.io/badge/GitHub-Follow-green"></a>
+    <a href="#" target="_blank"><img src="https://img.shields.io/badge/Instagram-Follow-red"></a>
+</p>
+
 <br>
 <h1 align="center">🛠️ My favorite tools 🛠️ </h1>
 <div align="center">
