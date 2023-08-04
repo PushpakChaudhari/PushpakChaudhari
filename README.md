@@ -149,10 +149,10 @@ Here are some ideas to get you started:
     <table border="0" align="center">
         <tr border="0">
             <td width="50%" align="center">
-                <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=aniketshaw29&theme=nightowl&show_icons=true&count_private=true" />
+                <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=PushpakChaudhari&theme=nightowl&show_icons=true&count_private=true" />
                 <br>
                 </br>
-                <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com?user=aniketshaw29&theme=nightowl&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+                <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=PushpakChaudhari&theme=nightowl&hide_border=true&date_format=M%20j[,%20Y]" />
             </td>
             <td width="50%" align="center">
                 <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=aniketshaw29&theme=nightowl&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
@@ -168,7 +168,7 @@ Here are some ideas to get you started:
 </div>
 <!-- retro visitor counter -->  
 <p align="center" >   
-  <img src="https://profile-counter.glitch.me/aniketshaw29/count.svg" />  
+  <img src="https://profile-counter.glitch.me/PushpakChaudhari/count.svg" />  
 </p>
 
 
