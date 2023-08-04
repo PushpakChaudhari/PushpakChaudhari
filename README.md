@@ -1,3 +1,127 @@
+<!-- Your existing content goes here -->
+
+<!-- Add custom CSS for styling -->
+<style>
+  /* Style for the header */
+  h1 {
+    color: #F74533;
+    font-size: 36px;
+    margin-bottom: 20px;
+    font-weight: bold;
+  }
+
+  /* Style for the typing animation */
+  p.typing-svg {
+    font-family: 'Fira Code', monospace;
+    font-size: 23px;
+    color: #F74533;
+    background-color: #EFFF4F00;
+    padding: 10px;
+    border-radius: 5px;
+    display: inline-block;
+  }
+
+  /* Style for the favorite tools section */
+  h1.favorite-tools {
+    color: #F74533;
+    font-size: 28px;
+    margin-top: 50px;
+    font-weight: bold;
+  }
+
+  .tools-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+    margin-top: 30px;
+  }
+
+  .tool-icon {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    background-color: #F74533;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    color: white;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  }
+
+  /* Style for the stats section */
+  h2.stats {
+    color: #F74533;
+    font-size: 28px;
+    margin-top: 50px;
+    font-weight: bold;
+  }
+
+  /* Style for the footer */
+  .footer {
+    margin-top: 50px;
+    text-align: center;
+  }
+
+  .footer img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+  }
+</style>
+
+<!-- Add custom JavaScript for interactivity -->
+<script>
+  // Function to animate the typing effect
+  function typeWriter(textElement, words, wait = 3000) {
+    let wordIndex = 0;
+    let charIndex = 0;
+    let isDeleting = false;
+
+    function type() {
+      const currentWord = words[wordIndex];
+      if (isDeleting) {
+        textElement.textContent = currentWord.substring(0, charIndex - 1);
+      } else {
+        textElement.textContent = currentWord.substring(0, charIndex + 1);
+      }
+
+      if (!isDeleting && charIndex === currentWord.length) {
+        isDeleting = true;
+        wait = 2000;
+      } else if (isDeleting && charIndex === 0) {
+        isDeleting = false;
+        wordIndex++;
+        wait = 3000;
+      }
+
+      charIndex++;
+      if (wordIndex === words.length) {
+        wordIndex = 0;
+      }
+      setTimeout(type, wait);
+    }
+
+    type();
+  }
+
+  // Call the typing effect function
+  document.addEventListener("DOMContentLoaded", () => {
+    const textElement = document.querySelector(".typing-svg");
+    const words = [
+      "A Self Taught Developer",
+      "Learning Web App Development",
+      "Backend Developer",
+      "A Quick Learner",
+    ];
+    typeWriter(textElement, words);
+  });
+</script>
+
+
+
 <h1 align="center">
   Hi there! I'm Pushpak Chaudhari 👋
 </h1>
