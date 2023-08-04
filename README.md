@@ -1,3 +1,36 @@
+<!-- Typing SVG by DenverCoder1 - https://github.com/aniketshaw29/readme-typing-svg -->
+<p align="center" style="background: linear-gradient(to right, #ff758c, #ff7eb3); padding: 20px;">
+  <a href="https://github.com/aniketshaw29/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=fira&size=23&color=F74533&background=EFFF4F00&center=true&width=500&height=45&lines=A+Self+Taught+Developer;Learning+Web+App+Development;Backend+Developer;A+Quick+Learner"></a>
+</p>
+
+<!-- Rest of your content remains unchanged -->
+
+<!-- Add custom CSS for styling -->
+<style>
+  /* Add CSS styles for different sections here */
+  /* Header style */
+  h1 {
+    color: #F74533;
+    font-size: 36px;
+    margin-bottom: 20px;
+    font-weight: bold;
+  }
+
+  /* Favorite tools section style */
+  h1.favorite-tools {
+    /* Your styles */
+  }
+
+  /* Stats section style */
+  h2.stats {
+    /* Your styles */
+  }
+
+  /* Footer style */
+  .footer {
+    /* Your styles */
+  }
+</style>
 
 <h1 align="center">
   Welcome to Pushpak's profile!
