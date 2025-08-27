@@ -10,7 +10,6 @@
 
 - 🔭 Currently pursuing a **Master's in Computer Application (MCA)** from **_JSPM's Rajarshi Shahu College of Engineering_** (Aug 2023 - Jul 2025).
 - 🌱 Focusing on **gaining new skills in _Web Development, Application Development, and Database Management._**
-- 📫 Email me here --> **pushpakchaudhari383@gmail.com**
 
 - **Backend Tech Stack**: Java Spring Boot (Hibernate-JPA), Node (Express)
 - **Frontend Tech Stack**: Angular
